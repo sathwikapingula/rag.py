@@ -1,5 +1,5 @@
 import streamlit as st
-from sentence_transformers import SentenceTransformer
+from sentence_Transformers import SentenceTransformer
 import chromadb
 import ollama
 
